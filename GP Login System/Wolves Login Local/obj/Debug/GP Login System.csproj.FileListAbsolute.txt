@@ -1,0 +1,28 @@
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP Login System.csproj.AssemblyReference.cache
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP Login System.csproj.SuggestedBindingRedirects.cache
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP_Login_System.Login.resources
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP_Login_System.Portal.resources
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP_Login_System.Properties.Resources.resources
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP_Login_System.Register.resources
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP Login System.csproj.GenerateResource.cache
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP Login System.csproj.CoreCompileInputs.cache
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP Login System.exe
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP Login System.pdb
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\bin\Debug\GP Login System.exe.config
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\bin\Debug\GP Login System.exe
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\bin\Debug\GP Login System.pdb
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\Wolves-Platform-Login-main\Wolves Login Local\obj\Debug\GP Login System.csproj.CopyComplete
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\bin\Debug\GP Login System.exe.config
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\bin\Debug\GP Login System.exe
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\bin\Debug\GP Login System.pdb
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP Login System.csproj.AssemblyReference.cache
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP Login System.csproj.SuggestedBindingRedirects.cache
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP_Login_System.Login.resources
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP_Login_System.Portal.resources
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP_Login_System.Properties.Resources.resources
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP_Login_System.Register.resources
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP Login System.csproj.GenerateResource.cache
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP Login System.csproj.CoreCompileInputs.cache
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP Login System.csproj.CopyComplete
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP Login System.exe
+D:\Georgi\GitHub Projects\Wolves-Platform-Login-main\GP Login System\Wolves Login Local\obj\Debug\GP Login System.pdb
